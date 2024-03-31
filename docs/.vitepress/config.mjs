@@ -42,6 +42,7 @@ export default defineConfig({
           { text: 'axios', link: '/vue/axios.md' },
           { text: 'pinia', link: '/vue/pinia.md' },
           { text: 'vuex', link: '/vue/vuex.md' },
+          { text: 'JavaScript基础', link: '/vue/JavaScript基础.md' },
         ]
       },
 
