@@ -35,9 +35,33 @@ export default defineConfig({
     },
     nav: [
       { text: '主页', link: '/' },
-      { text: 'Vue', link: '/markdown-examples' },
-      { text: 'Python', link: '/markdown-examples' },
-      { text: 'AI', link: '/markdown-examples' }
+      { text: 'Vue',
+        items: [
+          { text: 'Vue基础', link: '/vue/vue基础.md' },
+          { text: 'Vue-router', link: '/vue/vue-router.md' },
+          { text: 'axios', link: '/vue/axios.md' },
+          { text: 'pinia', link: '/vue/pinia.md' },
+          { text: 'vuex', link: '/vue/vuex.md' },
+        ]
+      },
+
+      { text: 'Python',
+        items: [
+          { text: 'Python3基础', link: '/python/Python3基础.md' },
+        ]
+      },
+      { text: '数据库',
+        items: [
+          { text: 'MySQL', link: '/datebase/MySQL.md' },
+        ]
+      },
+      { text: '持续集成',
+        items: [
+          { text: 'docker', link: '/ci/docker.md' },
+          { text: 'Jenkins', link: '/ci/Jenkins.md' },
+        ]
+      },
+      { text: 'AI', link: '/AI/ai.md' }
     ],
     //自定义侧边栏
     // sidebar: {
