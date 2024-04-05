@@ -66,7 +66,12 @@ export default defineConfig({
           { text: 'Jenkins', link: '/ci/Jenkins.md' },
         ]
       },
-      { text: 'AI', link: '/AI/ai.md' }
+      { text: 'Linux',
+        items: [
+          { text: 'Linux常用命令', link: '/Linux/常用命令.md' },
+        ]
+      },
+
     ],
     //自定义侧边栏
     // sidebar: {
