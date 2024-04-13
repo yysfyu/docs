@@ -38,6 +38,7 @@ export default defineConfig({
       { text: 'Vue',
         items: [
           { text: 'Vue基础', link: '/vue/vue基础.md' },
+          { text: 'Vue3速查', link: '/vue/vue3速查.md' },
           { text: 'Vue-router', link: '/vue/vue-router.md' },
           { text: 'axios', link: '/vue/axios.md' },
           { text: 'pinia', link: '/vue/pinia.md' },
