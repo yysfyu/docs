@@ -6,7 +6,7 @@ hero:
   name: "一介散修的文档库"
   text: "道友，加油！"
   tagline: 保持热爱、持续学习
-  image: /blog.svg
+  image: /Vue.png
   actions:
     - theme: brand
       text: Markdown Examples
