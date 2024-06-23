@@ -45,9 +45,11 @@ export default defineConfig({
           { text: 'vuex', link: '/vue/vuex.md' },
         ]
       },
-      { text: 'JavaScript',
+      { text: '前端基础',
         items: [
           { text: 'JavaScript基础', link: '/JavaScript/JavaScript基础.md' },
+          { text: 'HTML基础', link: '/HTML/HTML基础.md' },
+          { text: 'CSS基础', link: '/CSS/CSS基础.md' },
         ]
       },
 
