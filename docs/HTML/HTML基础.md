@@ -14,11 +14,11 @@ outline: deep
 
 发展史：
 
-![html发展史](https://gitee.com/codeyu98/bed/raw/master/vitepress/202406230905212.png)
+![html发展史](../public/html/202406230905212.png)
 
 HTML标签：
 
-![](https://gitee.com/codeyu98/bed/raw/master/vitepress/202406230920563.png)
+![](../public/html/202406230920563.png)
 
 标签属性：
 
@@ -30,11 +30,11 @@ HTML标签：
 >
 > 有些特殊的属性，没有属性名，只有属性值，`<input disable />`
 
-![](https://gitee.com/codeyu98/bed/raw/master/vitepress/202406230933221.png)
+![](../public/html/202406230933221.png)
 
 HTML基本结构：
 
-![](https://gitee.com/codeyu98/bed/raw/master/vitepress/202406230942748.png)
+![](../public/html/202406230942748.png)
 
 ## HTML注释
 
